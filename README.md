@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omer Sagar
+# 👋 Hi, I'm Atal Wiar
 
 I'm a passionate **Full Stack Developer** with a focus on building scalable, performant, and user-friendly web applications. I enjoy turning complex problems into simple, beautiful solutions.
 
