@@ -38,20 +38,10 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable, per
 ---
 
 🚀 Highlight Projects
-Kalam Library - Digital Library Management
-A comprehensive library management system for organizing books, members, and borrowing records.
-
-Tech: PHP, Laravel, MySQL, Bootstrap
-
-TaskFlow - Project Management App
-A collaborative project management tool with task tracking, team collaboration, and progress monitoring.
-
-Tech: React, Node.js, Express, MongoDB, Tailwind CSS
-
-QuickBite - Food Delivery Platform
-A modern food ordering and delivery platform with real-time order tracking and payment integration.
-
-Tech: Next.js, React, MySQL, Stripe API
+🔧 Kalam Library - Digital library management system
+🔧 TaskFlow - Project management tool with team collaboration
+🔧 QuickBite - Food delivery platform with real-time tracking
+🔧 Sashino Chat - Real-time chat application with Socket.io
 
 ---
 
