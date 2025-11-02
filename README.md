@@ -68,7 +68,4 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable, per
 ---
 
 📫 Let's Connect
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-https://img.shields.io/badge/Portfolio-%2523000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139
+<div align="left"> <a href="mailto:your-email@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a> <a href="https://facebook.com/your-profile"> <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="40" height="40"/> </a> <a href="https://your-portfolio-url.com"> <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="40" height="40"/> </a> </div>
