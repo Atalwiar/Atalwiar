@@ -37,19 +37,21 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable, per
 
 ---
 
-## 🚀 Highlight Projects
+🚀 Highlight Projects
+Kalam Library - Digital Library Management
+A comprehensive library management system for organizing books, members, and borrowing records.
 
-### **LinkStats** - Full Stack Blog App
-> A feature-rich blog application with user authentication and full CRUD functionality.
-*   **Tech:** MERN Stack (MongoDB, Express, React, Node.js) or LAMP Stack (You can choose which one you built it with).
+Tech: PHP, Laravel, MySQL, Bootstrap
 
-### **Salaire** - Book Review App
-> A modern book review platform built with Next.js for server-side rendering and performance.
-*   **Tech:** Next.js, React, Tailwind CSS.
+TaskFlow - Project Management App
+A collaborative project management tool with task tracking, team collaboration, and progress monitoring.
 
-### **Sashino Chat** - Real-time Chat Application
-> A real-time chat application featuring instant messaging.
-*   **Tech:** Node.js, Express, Socket.io, React, MongoDB.
+Tech: React, Node.js, Express, MongoDB, Tailwind CSS
+
+QuickBite - Food Delivery Platform
+A modern food ordering and delivery platform with real-time order tracking and payment integration.
+
+Tech: Next.js, React, MySQL, Stripe API
 
 ---
 
