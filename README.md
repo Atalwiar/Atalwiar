@@ -69,5 +69,9 @@ Tech: Next.js, React, MySQL, Stripe API
 
 ---
 
-📫 Let's Connect
-<div align="left"> <a href="mailto:your-email@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="30" height="30"/> </a> <a href="https://linkedin.com/in/your-profile"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" height="30"/> </a> <a href="https://facebook.com/your-profile"> <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="30" height="30"/> </a> <a href="https://your-portfolio-url.com"> <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" width="30" height="30"/> </a> </div>
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-profile)
