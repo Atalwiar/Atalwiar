@@ -37,11 +37,23 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable, per
 
 ---
 
-🚀 Highlight Projects
-🔧 Kalam Library - Digital library management system
-🔧 TaskFlow - Project management tool with team collaboration
-🔧 QuickBite - Food delivery platform with real-time tracking
-🔧 Sashino Chat - Real-time chat application with Socket.io
+🚀 **Highlight Projects**
+
+<p float="left">
+  <a href="https://github.com/yourusername/kalam-library">
+    <img src="https://img.shields.io/badge/Kalam%20Library-📚-blue" alt="Kalam Library"/>
+  </a>
+  <a href="https://github.com/yourusername/taskflow">
+    <img src="https://img.shields.io/badge/TaskFlow-🔧-blue" alt="TaskFlow"/>
+  </a>
+  <a href="https://github.com/yourusername/quickbite">
+    <img src="https://img.shields.io/badge/QuickBite-🍔-blue" alt="QuickBite"/>
+  </a>
+  <a href="https://github.com/yourusername/sashino-chat">
+    <img src="https://img.shields.io/badge/Sashino%20Chat-💬-blue" alt="Sashino Chat"/>
+  </a>
+</p>
+
 
 ---
 
