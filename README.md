@@ -39,20 +39,22 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable, per
 
 🚀 **Highlight Projects**
 
-<p float="left">
-  <a href="https://github.com/yourusername/kalam-library">
-    <img src="https://img.shields.io/badge/Kalam%20Library-📚-blue" alt="Kalam Library"/>
-  </a>
-  <a href="https://github.com/yourusername/taskflow">
-    <img src="https://img.shields.io/badge/TaskFlow-🔧-blue" alt="TaskFlow"/>
-  </a>
-  <a href="https://github.com/yourusername/quickbite">
-    <img src="https://img.shields.io/badge/QuickBite-🍔-blue" alt="QuickBite"/>
-  </a>
-  <a href="https://github.com/yourusername/sashino-chat">
-    <img src="https://img.shields.io/badge/Sashino%20Chat-💬-blue" alt="Sashino Chat"/>
-  </a>
-</p>
+<a href="https://github.com/yourusername/kalam-library">
+  <img src="https://img.shields.io/badge/Kalam%20Library-📚-blue" alt="Kalam Library"/>
+</a> 🔧 Digital library management system
+
+<a href="https://github.com/yourusername/taskflow">
+  <img src="https://img.shields.io/badge/TaskFlow-🔧-blue" alt="TaskFlow"/>
+</a> 🔧 Project management with team collaboration
+
+<a href="https://github.com/yourusername/quickbite">
+  <img src="https://img.shields.io/badge/QuickBite-🍔-blue" alt="QuickBite"/>
+</a> 🔧 Food delivery with real-time tracking
+
+<a href="https://github.com/yourusername/sashino-chat">
+  <img src="https://img.shields.io/badge/Sashino%20Chat-💬-blue" alt="Sashino Chat"/>
+</a> 🔧 Real-time chat with Socket.io
+
 
 
 ---
