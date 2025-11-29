@@ -63,7 +63,7 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable, per
 
 ## 📈 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atalwiar&show_icons=true&theme=radical&hide_border=true" alt="Omer's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atalwiar&layout=compact&theme=radical&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-git-masterrk.vercel.app/api?username=Atalwiar&show_icons=true&theme=radical&hide_border=true" alt="Atal GitHub Stats" /> <img align="center" src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=Atalwiar&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 
 ---
