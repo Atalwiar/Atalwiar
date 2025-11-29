@@ -63,7 +63,7 @@ I'm a passionate **Full Stack Developer** with a focus on building scalable, per
 
 ## 📈 GitHub Stats
 
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Atalwiar&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Atalwiar&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Atalwiar&show_icons=true&theme=radical&hide_border=true" /> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Atalwiar&layout=compact&theme=radical&hide_border=true" />
 
 
 ---
